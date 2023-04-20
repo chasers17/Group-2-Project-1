@@ -3,3 +3,5 @@
 __pycache__/
 venv/
 *.egg-info/
+.ipynb_checkpoints/combined-checkpoint.gif
+.ipynb_checkpoints/combined-checkpoint.gif
